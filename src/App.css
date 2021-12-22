@@ -1,0 +1,11 @@
+* {
+  font-family: sans-serif;  
+  padding: 5px;
+}
+li, form {
+  width: 300px;
+}
+button {
+  border: 5px;
+  float:right;
+}
